@@ -15,3 +15,7 @@ Music/
 Pictures/
 Public/
 .Trash/
+
+*.log
+node_modules/
+
